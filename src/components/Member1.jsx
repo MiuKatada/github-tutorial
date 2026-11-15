@@ -1,8 +1,8 @@
 function Member1() {
   return (
     <div className="member">
-      <h2>名前</h2>
-      <p>ひとこと</p>
+      <h2>山田圭悟</h2>
+      <p>よろしくお願いします</p>
     </div>
   );
 }
